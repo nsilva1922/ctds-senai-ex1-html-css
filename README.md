@@ -53,15 +53,15 @@ Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 
 
 <h2>Media querie</h2>
-<p>@media (max-width: 600px) {
-    .card {
-        width: 90%;
-    }
+<p>@media (max-width: 600px) {</p>
+   <p>.card {</p>
+        <p>width: 90%;</p>
+    <p>}</p>
 
-    h1 {
-        font-size: 1.5rem;
-    }
-}</p>
+   <p>h1 {</p>
+        <p>font-size: 1.5rem;</p>
+    <p>}</p>
+<p>}</p>
 
 
 
