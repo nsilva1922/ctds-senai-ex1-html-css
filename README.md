@@ -2,10 +2,10 @@
 Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 
 # Orientações
-Tipo de fonte
-Externa: Poppins
+<h2>Tipo de fonte</h2>
+<p>Externa: Poppins</p>
 
-Cor
+<h2>Cor</h2>
 **Usar variáveis
 :root{
     nome_variavel: valor;
