@@ -6,7 +6,7 @@ Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 <p>Externa: Poppins</p>
 
 <h2>Cor</h2>
-**Usar variáveis
+<strong>**Usar variáveis</strong>
 :root{
     nome_variavel: valor;
 }
