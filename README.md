@@ -17,43 +17,43 @@ Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 <p>.card: white</p>
 <p>footer: # 1f2937</p>
 
-Color
-Body: #333
-Header: white
-.preco: #1f2937
-footer: white
+<h2>Color</h2>
+<p>Body: #333</p>
+<p>Header: white</p>
+<p>.preco: #1f2937</p>
+<p>footer: white</p>
 
-Tamanho da fonte
-h1: 2rem
-.card h2: 1.2rem
-.card p: 0.95rem
+<h2>Tamanho da fonte</h2>
+<p>h1: 2rem</p>
+<p>.card h2: 1.2rem</p>
+<p>.card p: 0.95rem</p>
 
-main
-padding: 20px;
-max-width: 1200px;
-margin: auto;
+<h2>main</h2>
+<p>padding: 20px;</p>
+<p>max-width: 1200px;</p>
+<p>margin: auto;</p>
 
-.produtos
-display: flex;
-flex-wrap: wrap;
+<h2>.produtos</h2>
+<p>display: flex;</p>
+<p>flex-wrap: wrap;</p>
 
-.card
-border: 1px solid #ddd;
-border-radius: 10px;
-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-width: 300px;
-padding: 15px;
-display: flex;
-flex-direction: column;
-align-items: center;
-transition: transform 0.2s ease-in-out;
+<h2>.card</h2>
+<p>border: 1px solid #ddd;</p>
+<p>border-radius: 10px;</p>
+<p>box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);</p>
+<p>width: 300px;</p>
+<p>padding: 15px;</p>
+<p>display: flex;</p>
+<p>flex-direction: column;</p>
+<p>align-items: center;</p>
+<p>transition: transform 0.2s ease-in-out;</p>
 
-.card:hover
-transform: scale(1.03);
+<h2>.card:hover</h2>
+<p>transform: scale(1.03);</p>
 
 
-Media querie
-@media (max-width: 600px) {
+<h2>Media querie</h2>
+<p>@media (max-width: 600px) {
     .card {
         width: 90%;
     }
@@ -61,7 +61,7 @@ Media querie
     h1 {
         font-size: 1.5rem;
     }
-}
+}</p>
 
 
 
