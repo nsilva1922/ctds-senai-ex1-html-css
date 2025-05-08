@@ -7,15 +7,15 @@ Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 
 <h2>Cor</h2>
 <strong>**Usar variáveis</strong>
-:root{
+<p>:root{
     nome_variavel: valor;
-}
+}</p>
 
-Background-color
-Body: #f9f9f9
-Header: #1f2937
-.card: white
-footer: # 1f2937
+<h2>Background-color</h2>
+<p>Body: #f9f9f9</p>
+<p>Header: #1f2937</p>
+<p>.card: white</p>
+<p>footer: # 1f2937</p>
 
 Color
 Body: #333
